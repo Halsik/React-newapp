@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Testowy tytuł",
+    "textContent": "Skrócona treść wiadomości",
+    "currentDate": "28-03-2022"
+    
+  },
+  {
+    "id": 2,
+    "title": "Testowy tytuł 2",
+    "textContent": "Skrócona treść wiadomości numer 2",
+    "currentDate": "29-03-2022"
+  }
+  
+]
